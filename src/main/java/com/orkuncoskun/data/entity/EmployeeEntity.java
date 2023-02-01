@@ -1,4 +1,4 @@
-package com.orkuncoskun.entity;
+package com.orkuncoskun.data.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

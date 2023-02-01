@@ -1,4 +1,4 @@
-package com.orkuncoskun.repository;
+package com.orkuncoskun.data.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

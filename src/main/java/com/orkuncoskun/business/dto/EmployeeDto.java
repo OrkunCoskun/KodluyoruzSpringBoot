@@ -1,4 +1,4 @@
-package com.orkuncoskun.dto;
+package com.orkuncoskun.business.dto;
 
 //DTO: Data Transfer Object
 
