@@ -1,4 +1,4 @@
-package com.orkuncoskun.bean;
+package com.orkuncoskun.tutorials.bean;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;

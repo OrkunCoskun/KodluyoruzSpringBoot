@@ -1,6 +1,6 @@
-package com.orkuncoskun.controller;
+package com.orkuncoskun.tutorials.controller;
 
-import com.orkuncoskun.dto.TeacherDto;
+import com.orkuncoskun.tutorials.dto.TeacherDto;
 import jakarta.validation.Valid;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.stereotype.Controller;

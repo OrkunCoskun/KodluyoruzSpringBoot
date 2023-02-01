@@ -1,4 +1,4 @@
-package com.orkuncoskun.dto;
+package com.orkuncoskun.tutorials.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,4 +1,4 @@
-package com.orkuncoskun.dto;
+package com.orkuncoskun.tutorials.dto;
 
 import jakarta.validation.constraints.*;
 import lombok.AllArgsConstructor;
